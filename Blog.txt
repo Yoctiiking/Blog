@@ -1,0 +1,14 @@
+Enities:
+
+1)BlogItem
+	-id
+	-name
+	-description
+	-createdAt
+
+2)UserInfo
+	-firstname
+	-lastanme
+	-birthday
+	-adresse
+	-description
